@@ -1,0 +1,36 @@
+#Virtual environment
+venv/
+pycache/
+*.pyc
+*.pyo
+
+#Environment variables
+.env
+
+#Database files (SQLite)
+*.sqlite3
+site.db
+
+#Migrations
+migrations/
+
+#Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+#Logs and temp files
+*.log
+*.tmp
+*.bak
+instance/
+
+#IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-workspace
+
+#OS-specific files
+.DS_Store
+Thumbs.db#
