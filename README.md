@@ -1,3 +1,5 @@
+**Has not been completed yet! This is still a work in progress but I hope to make consistent progress.**
+
 Study Group & Tutoring Platform
 A web-based platform designed to connect students for study groups and tutoring. Users can sign up, create study groups, and schedule tutoring sessions. This platform uses Flask for the backend, PostgreSQL for the database, and Bootstrap for the frontend.
 
